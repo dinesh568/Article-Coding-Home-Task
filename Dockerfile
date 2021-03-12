@@ -9,7 +9,7 @@ FROM java:8
 EXPOSE 8080
 
 #adding target folder to workspace location
-ADD target/xebia-project.jar
+ADD target/xebia-project-0.0.1-SNAPSHOT.jar
 
 #Entrypoint
 ENTRYPOINT ["java","-jar","xebia-project.jar"]
