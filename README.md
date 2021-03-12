@@ -15,7 +15,7 @@ CREATE TABLE `article` (
   PRIMARY KEY (`slug`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-Build Project - clean install
+Build Project - mvn clean install
 
 Server Port : 8080
 Start the application : http://localhost:8080/
