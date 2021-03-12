@@ -1,0 +1,12 @@
+com\xebia\constants\ArticleEndpoint.class
+com\xebia\model\TimeRead.class
+com\xebia\model\Article.class
+com\xebia\model\ArticleResponse.class
+com\xebia\service\ArticleService.class
+com\xebia\service\impl\ArticleServiceImpl.class
+com\xebia\repository\ArticleRepository.class
+com\xebia\controller\ArticleController.class
+com\xebia\model\ArticleTimePeriod.class
+com\xebia\model\ArticleOccurence.class
+com\xebia\model\ArticleRequest.class
+com\xebia\ArticleApplication.class
