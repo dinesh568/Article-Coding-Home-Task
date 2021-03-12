@@ -12,4 +12,4 @@ EXPOSE 8080
 ADD target/xebia-project-0.0.1-SNAPSHOT.jar
 
 #Entrypoint
-ENTRYPOINT ["java","-jar","xebia-project.jar"]
+ENTRYPOINT ["java","-jar","xebia-project-0.0.1-SNAPSHOT.jar"]
